@@ -1,6 +1,9 @@
 ---
 title: "About Me"
-permalink: /about/
+permalink: /
+author_profile: true
 ---
 
-I am a Computer Engineering student at Virginia Tech with interests in robotics and music.
+Hi, I’m **Subhan Hassan**, a Computer Engineering student at Virginia Tech.
+
+I’m interested in robotics and music :>
